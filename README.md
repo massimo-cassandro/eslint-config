@@ -13,7 +13,7 @@ Install `eslint` and this package:
 npm install -D @massimo-cassandro/eslint-config eslint
 ```
 
-Create a `.eslintrc.cjs` file (or use any other name you like, following the instructions at <https://stylelint.io/user-guide/configure>) and add:
+Create a `.eslintrc.cjs` file (or use any other name and syntax you like, following the instructions at <https://eslint.org/docs/latest/use/configure/configuration-files>) and add:
 
 ```javascript
 /* eslint-env node */
