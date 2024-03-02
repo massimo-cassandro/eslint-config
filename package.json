@@ -6,6 +6,9 @@
   "scripts": {
     "npm-publish": "npm publish"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Massimo Cassandro",
   "license": "MIT",
   "repository": {
