@@ -19,7 +19,7 @@ Create a `.eslintrc.cjs` file (or use any other name and syntax you like, follow
 /* eslint-env node */
 
 module.exports = {
-  'extends': '@massimo-cassandro/eslint-config'
+  extends: '@massimo-cassandro/eslint-config'
 };
 ```
 
@@ -37,6 +37,6 @@ Add it to the `.eslintrc.cjs` file:
 /* eslint-env node */
 
 module.exports = {
-  'extends': ['react-app', '@massimo-cassandro/eslint-config']
+  extends: ['react-app', '@massimo-cassandro/eslint-config']
 };
 ```
