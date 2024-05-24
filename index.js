@@ -59,6 +59,9 @@ export default [
       ecmaVersion: 2023,
       sourceType: 'commonjs'
     },
+    globals: {
+      ...globals.node
+    }
   },
 
 ];
