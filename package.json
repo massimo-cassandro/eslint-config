@@ -1,8 +1,9 @@
 {
   "name": "@massimo-cassandro/eslint-config",
-  "version": "1.1.1",
-  "description": "my eselint config",
+  "version": "2.0.0",
+  "description": "my eslint config",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "UPD-version": "npx update-version",
     "npm-publish": "npm publish"
@@ -27,6 +28,11 @@
     "index.js"
   ],
   "devDependencies": {
-    "@massimo-cassandro/dev-updater": "^1.0.1"
+    "@massimo-cassandro/dev-updater": "^1.0.2"
+  },
+  "peerDependencies": {
+    "@eslint/js": "^9.3.0",
+    "eslint": "^9.3.0",
+    "globals": "^15.2.0"
   }
 }

@@ -5,6 +5,11 @@
 		}
 	],
 	"settings": {
-
+		"favorites.resources": [
+			{
+				"filePath": "node_modules/stylelint-stylistic/config/index.js",
+				"group": "Default"
+			}
+		]
 	}
 }
