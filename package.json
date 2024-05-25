@@ -1,6 +1,6 @@
 {
   "name": "@massimo-cassandro/eslint-config",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "my eslint config",
   "main": "index.js",
   "type": "module",
@@ -31,8 +31,8 @@
     "@massimo-cassandro/dev-updater": "^1.0.2"
   },
   "peerDependencies": {
-    "@eslint/js": "^9.3.0",
-    "eslint": "^9.3.0",
-    "globals": "^15.2.0"
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "globals": "^15.0.0"
   }
 }
