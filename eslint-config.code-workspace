@@ -6,10 +6,14 @@
   ],
 	"settings": {
 		"favorites.resources": [
-			{
-				"filePath": "node_modules/stylelint-stylistic/config/index.js",
-				"group": "Default"
-			}
-		]
+      {
+        "filePath": "node_modules/stylelint-stylistic/config/index.js",
+        "group": "Default"
+      },
+      {
+        "filePath": "node_modules/@massimo-cassandro",
+        "group": "Default"
+      }
+    ]
 	}
 }
