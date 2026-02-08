@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "UPD-version": "npx update-version",
+    "upd@m": "npx upd@m",
     "npm-publish": "npm publish"
   },
   "publishConfig": {
