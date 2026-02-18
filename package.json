@@ -29,7 +29,7 @@
     "index.js"
   ],
   "devDependencies": {
-    "@massimo-cassandro/dev-updater": "^3.0.1"
+    "@massimo-cassandro/dev-updater": "^3.0.2"
   },
   "dependencies": {
     "@eslint/js": "^10.0.1",
