@@ -1,6 +1,6 @@
 {
   "name": "@massimo-cassandro/eslint-config",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "my eslint config",
   "main": "index.js",
   "type": "module",
@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@eslint/js": "^10.0.1",
-    "eslint": "^10.0.0",
+    "eslint": "^10.0.1",
     "globals": "^17.3.0"
   }
 }
