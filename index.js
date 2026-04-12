@@ -5,6 +5,7 @@ import globals from 'globals';
 export default [
   eslint_js.configs.recommended,
   {
+    files: ['**/*.js', '**/*.mjs', '**/*.jsx'],
     name: '@massimo-cassandro/eslint-config',
 
     languageOptions: {
