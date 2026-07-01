@@ -1,6 +1,6 @@
 {
   "name": "@massimo-cassandro/eslint-config",
-  "version": "3.0.10",
+  "version": "3.0.11",
   "description": "my eslint config",
   "main": "index.js",
   "type": "module",
@@ -31,7 +31,7 @@
     "index.js"
   ],
   "devDependencies": {
-    "@massimo-cassandro/dev-updater": "^3.0.6"
+    "@massimo-cassandro/dev-updater": "^3.0.7"
   },
   "dependencies": {
     "@eslint/js": "^10.0.1",
