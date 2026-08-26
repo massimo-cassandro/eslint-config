@@ -54,6 +54,7 @@ export default [
       'no-unused-vars': ['error', {
         'vars': 'all',
         'args': 'after-used',
+        'argsIgnorePattern': '^_',
         'ignoreRestSiblings': false
       }],
       'import/no-anonymous-default-export': 0

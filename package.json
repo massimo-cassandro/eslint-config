@@ -1,6 +1,6 @@
 {
   "name": "@massimo-cassandro/eslint-config",
-  "version": "3.0.14",
+  "version": "3.0.15",
   "description": "my eslint config",
   "main": "index.js",
   "type": "module",
